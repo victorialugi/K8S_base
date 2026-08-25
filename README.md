@@ -13,7 +13,7 @@ kubectl get pods
 
 Подключение:
 Bashkubectl port-forward pod/hello-world 8080:8080
-curl localhost:8080
+curl localhost:8080```
 
 ![]()
 
